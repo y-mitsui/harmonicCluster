@@ -15,7 +15,7 @@ harmonicCluster [option] [wav file]
 -d [lpc order]  
 -n [frame number]  
 -h [number of harmonic ]  
--k [number of kernel]  
+-k [number of classter]  
 
 ##example
 >harmonicCluster.exe -l 320 -p 320 -d 16 -n 15 -h 2 -k 1 > result.txt  
