@@ -6,7 +6,7 @@ This program will split spectrum after lpc analyze.
 
 ##install
 (you require gmake)  
-make  
+>make  
 
 ##usage
 harmonicCluster [option] [wav file]  
@@ -18,7 +18,7 @@ harmonicCluster [option] [wav file]
 -k [number of kernel]  
 
 ##example
-  harmonicCluster.exe -l 320 -p 320 -d 16 -n 15 -h 2 -k 1 > result.txt  
-  gnuplot  
-  >plot "result.txt"
+>harmonicCluster.exe -l 320 -p 320 -d 16 -n 15 -h 2 -k 1 > result.txt  
+>gnuplot  
+>plot "result.txt"
   
