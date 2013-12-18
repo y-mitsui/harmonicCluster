@@ -20,7 +20,6 @@ harmonicCluster [option] [wav file]<br>
 -k [number of kernel]<br>
 
 example:
-
   harmonicCluster.exe -l 320 -p 320 -d 16 -n 15 -h 2 -k 1 > result.txt
   gnuplot
   >plot "result.txt"
