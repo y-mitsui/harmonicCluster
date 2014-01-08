@@ -5,7 +5,7 @@ An estimate method of polyphonic music
 This program will split spectrum after LPC analyzing.  
 
 ##Install
-(You require gmake.)  
+(You require gmake and gcc.)  
 >make  
 
 ##Usage
