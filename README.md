@@ -2,10 +2,10 @@ harmonicCluster
 ===============
 
 An estimate method of polyphonic music  
-This program will split spectrum after lpc analyzing.  
+This program will split spectrum after LPC analyzing.  
 
 ##install
-(you require gmake)  
+(You require gmake.)  
 >make  
 
 ##usage
