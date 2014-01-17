@@ -135,7 +135,7 @@ double *fir(double *x,int n,double* a,int na){
 
 
 static void usage(void){
-	fprintf(stderr,"Usage: spectrum [option] [wav file]\n");
+	fprintf(stderr,"Usage: harmonicCluster [option] [wav file]\n");
 	fprintf(stderr," -l [frame length]\n");
 	fprintf(stderr," -p [frame shift]\n");
 	fprintf(stderr," -d [lpc order]\n");
